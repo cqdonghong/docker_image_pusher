@@ -1,1 +1,1 @@
-frigate
+sneighbour/frigate
